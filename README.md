@@ -1,16 +1,8 @@
 # Hi there, I'm Novan 👋
 
-<picture>
-  <source align="left" width="46%"
-    srcset="https://github-readme-stats.vercel.app/api?username=novanv2&show_icons=true&theme=radical"
-    media="(prefers-color-scheme: dark)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=novanv2&show_icons=true" />
-</picture>
-
-<picture>
-  <source align="right" width="28%" 
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=novanv2&theme=radical"
-  />
-  <img src="https://github.com/novanv2/github-readme-stats"/>
-</picture>
+<a href="https://github.com/novanv2/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=novanv2&show_icons=true&theme=radical" />
+</a>
+<a href="https://github.com/novanv2/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=novanv2&layout=compact&langs_count=8&card_width=320&theme=radical" />
+</a>
