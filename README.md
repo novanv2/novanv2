@@ -9,8 +9,8 @@
 </picture>
 
 <picture>
-  <source align="right" width="28%" 
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=novanv2&theme=radical"
+  <source align="right" width="35%" 
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=novanv2&theme=radical&layout=compact"
   />
   <img src="https://github.com/novanv2/github-readme-stats"/>
 </picture>
