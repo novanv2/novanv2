@@ -2,15 +2,15 @@
 
 <picture>
   <source align="left" width="46%"
-    srcset="https://github-readme-stats-seven-eta-58.vercel.app/api?username=novanv2&show_icons=true&theme=radical"
+    srcset="https://github-readme-stats-seven-eta-37.vercel.app/api?username=novanv2&show_icons=true&theme=radical"
     media="(prefers-color-scheme: dark)"
   />
-  <img src="https://github-readme-stats-seven-eta-58.vercel.app/api?username=novanv2&show_icons=true" />
+  <img src="https://github-readme-stats-seven-eta-37.vercel.app/api?username=novanv2&show_icons=true" />
 </picture>
 
 <picture>
   <source align="right" width="35%" 
-    srcset="https://github-readme-stats-seven-eta-58.vercel.app/api/top-langs/?username=novanv2&theme=radical&layout=compact"
+    srcset="https://github-readme-stats-seven-eta-37.vercel.app/api/top-langs/?username=novanv2&theme=radical&layout=compact"
   />
   <img src="https://github.com/novanv2/github-readme-stats"/>
 </picture>
